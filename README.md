@@ -53,3 +53,6 @@ INSERT INTO Customer (name, address) VALUES
 ('Principal', 'Noida'),
 ('Infosys', 'Mysore'),
 ('Makemytrip', 'Mumbai');
+
+Show customers data
+SELECT * FROM Customer;
